@@ -20,7 +20,7 @@
 
         />
 
-    <View
+    <com.example.fcrecorder.WaveFormView
         android:id="@+id/waveFormView"
         android:layout_width="0dp"
         android:layout_height="250dp"
